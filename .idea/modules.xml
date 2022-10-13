@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/BFS.iml" filepath="$PROJECT_DIR$/.idea/BFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../GeneticAlgorithmBackPack/.idea/GeneticAlgorithmBackPack.iml" filepath="$PROJECT_DIR$/../../GeneticAlgorithmBackPack/.idea/GeneticAlgorithmBackPack.iml" />
     </modules>
   </component>
 </project>
